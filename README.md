@@ -6,6 +6,8 @@ A fully working, production-quality full-stack sustainability platform that conv
 
 **Project Status:** ✅ **COMPLETE & LAUNCH READY**
 
+**📸 Actual Screenshots:** See real application UI below in this README, plus full screenshots in the `/screenshots` folder on GitHub.
+
 ---
 
 ## 📺 Visual Overview
@@ -873,7 +875,109 @@ When optimization completes:
 
 ---
 
-## 📸 **ACTUAL WEBSITE SCREENSHOTS** (What You'll See)
+## 📸 **ACTUAL WEBSITE SCREENSHOTS** (Real Application)
+
+> **Live screenshots from the running application showing the production UI**
+
+### **Screen 1: Homepage Hero**
+
+![Homepage - Hero Section](screenshots/01-homepage.png)
+
+**What you see:**
+- Full-screen hero with MATERRA logo and navigation menu (Home, Studio, Materials, Designs, Impact, Demo)
+- Main headline: "WASTE IS NOT THE END OF THE DESIGN"
+- Tagline: "It's where MATERRA begins"
+- Two call-to-action buttons: "Enter the Studio" and "Watch the Transformation"
+- Warm ivory background (#F6EEDF) with forest green text (#193F36)
+
+---
+
+### **Screen 2: Studio - Optimization Workspace**
+
+![Studio - Three-Column Optimization Interface](screenshots/02-studio.png)
+
+**What you see:**
+- **Left Panel:** Material & Constraints
+  - Selected Panel indicator
+  - Add Material button (dashed border)
+  - Product Template: Desktop Organizer (3 components)
+  - Optimization Settings: Kerf (3mm), Edge Margin (10mm), Allow 90° rotation (checkbox)
+  
+- **Center Panel:** Cutting Layout Canvas (empty state)
+  - Placeholder showing "1000 mm" dimension
+  - Instructions: "Add materials and run optimization to see cutting layout"
+  
+- **Right Panel:** Optimization Result
+  - Placeholder: "Run optimization to see results"
+  - Will display utilization %, components placed, runtime metrics
+
+---
+
+### **Screen 3: Designs - Design Explorer**
+
+![Design Explorer - Browse and Manage Designs](screenshots/03-designs.png)
+
+**What you see:**
+- Page heading: "Design Explorer - 2 design(s) in your project"
+- Design cards grid:
+  - Each card shows Desktop Organizer template preview
+  - Title: "Untitled Design"
+  - Metadata: "Created 19 minutes ago"
+  - Materials count: 0, Status: Draft
+  - Action buttons: Open (dark green), Copy (icon), Delete (trash icon)
+- Professional card layout with subtle shadows
+
+---
+
+### **Screen 4: Impact - Environmental Intelligence**
+
+![Environmental Intelligence - Impact Comparison](screenshots/04-impact.png)
+
+**What you see:**
+- Left side: **Assumptions (Editable)**
+  - Transport distance (km): 50
+  - Transport emission factor (kg CO2e/km/kg): 0.12
+  - Material mass (kg): 5
+  - Processing energy (kWh): 0.8
+  - Electricity emission factor (kg CO2e/kWh): 0.233
+  - New material factor (kg CO2e/kg): 0.5
+  
+- Right side: **Results area** (placeholder: "Adjust assumptions and calculate impact")
+  - Will show side-by-side comparison when calculated
+  - New vs. Reclaimed material impact comparison
+  - Improvement percentage badge
+
+---
+
+### **Screen 5: Demo - Guided 7-Step Walkthrough**
+
+![Demo - Step 7 Reveal with 3D Preview](screenshots/05-demo.png)
+
+**What you see:**
+- **Top:** 7-step progress indicators (1 2 3 4 5 6 7)
+- **Currently on Step 7: "Reveal"**
+- **Left side:** 
+  - Document icon
+  - Heading: "Reveal"
+  - Text: "Export the complete design evidence report"
+  - Blue info box: "Export Evidence Report"
+  - Message: "A complete report has been generated with all project details, optimization results, and environmental assumptions."
+  - White button: "Download Report.pdf"
+
+- **Right side: "3D Product Preview"**
+  - 3D rendered Desktop Organizer in wood
+  - Interaction options:
+    - Rotate (selected)
+    - Zoom
+    - Exploded (view)
+
+- **Bottom:** Navigation buttons (← Back, Reset, Next →)
+
+---
+
+## 📸 **HISTORICAL ASCII DIAGRAMS** (Reference Documentation)
+
+For detailed layout descriptions, see the ASCII diagrams below:
 
 ### **Screen 1: Homepage Hero - Full Width**
 
