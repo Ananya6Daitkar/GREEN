@@ -871,6 +871,479 @@ When optimization completes:
 
 ---
 
+---
+
+## 📸 **ACTUAL WEBSITE SCREENSHOTS** (What You'll See)
+
+### **Screen 1: Homepage Hero - Full Width**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                           ┃
+┃  🌱 MATERRA    [Home] [Studio] [Materials] [Designs]     ┃
+┃                [Impact] [Demo]              [Sign In]    ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃                   🎨 HERO IMAGE SECTION                  ┃
+┃            (Reclaimed wood studio photograph)            ┃
+┃                                                           ┃
+┃         WASTE IS NOT THE END OF THE DESIGN              ┃
+┃         It's where MATERRA begins.                       ┃
+┃                                                           ┃
+┃         Turn reclaimed timber into beautiful new         ┃
+┃         designs through real optimization & material    ┃
+┃         intelligence.                                    ┃
+┃                                                           ┃
+┃         [Enter Studio →] [Watch Transformation ▶]       ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  HOW IT WORKS:                                           ┃
+┃  ┌─────────────┬─────────────┬──────────────┐            ┃
+┃  │  🔍 UPLOAD  │  ⚡ OPTIMIZE │  📊 ANALYZE │            ┃
+┃  │             │             │              │            ┃
+┃  │ Describe    │ Real solver │ Environmental│            ┃
+┃  │ your        │ finds best  │ impact of    │            ┃
+┃  │ reclaimed   │ cutting     │ reclaimed    │            ┃
+┃  │ material    │ layout      │ vs new       │            ┃
+┃  └─────────────┴─────────────┴──────────────┘            ┃
+┃                                                           ┃
+┃  FEATURES:                                               ┃
+┃  🔄 Circular Design  │ ⚠️ Damage-Aware                   ┃
+┃  🌍 Lower CO₂       │ ⚡ 0.00025s Optimize               ┃
+┃                                                           ┃
+┃  MATERIAL SHOWCASE:                                      ┃
+┃  [Timber Panel] [Plywood] [Hardwood] [Composites]       ┃
+┃                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+ACTUAL COLORS ON SCREEN:
+  Background: Ivory #F6EEDF (warm, paper-like)
+  Headings: Forest Green #193F36 (Instrument Serif font)
+  Body Text: Charcoal #29332F (Manrope font)
+  Buttons: Timber Orange #C58B5C hover, Deep Forest bg
+  Accent: Soft Citron #DCEB8A (success states)
+```
+
+---
+
+### **Screen 2: Studio - Live Optimization Interface**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                           ┃
+┃  🌱 MATERRA    [Home] [Studio] [Materials]...           ┃
+┃  Studio > New Design    [← Back]                         ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  OPTIMIZATION WORKSPACE (3-Column Layout)                ┃
+┃                                                           ┃
+┃  ┌─ MATERIAL ────┬─ CUTTING LAYOUT ────┬─ RESULTS ───┐  ┃
+┃  │ INPUT PANEL   │ CANVAS VISUALIZATION│ OUTPUT PANEL│  ┃
+┃  ├───────────────┼─────────────────────┼──────────────┤  ┃
+┃  │ [+ Add        │                     │ ✅ FEASIBLE  │  ┃
+┃  │  Material]    │                     │             │  ┃
+┃  │               │  ┌─────────────────┐│ Utilization:│  ┃
+┃  │ CONSTRAINTS   │  │                 ││ 92.4%       │  ┃
+┃  │               │  │  Material Grid  ││            │  ┃
+┃  │ Kerf:  [3] mm │  │  1200 × 600 mm ││ Components: │  ┃
+┃  │ Edge:  [10]mm │  │                 ││ 6 / 6       │  ┃
+┃  │ Waste: [5] % │  │  [████]█████    ││ Placed      │  ┃
+┃  │               │  │  [██████]████   ││             │  ┃
+┃  │ ☑ Allow 90°   │  │  [████████]     ││ Runtime:    │  ┃
+┃  │               │  │  [███]██████    ││ 0.00025 s   │  ┃
+┃  │ MATERIAL:     │  │                 ││             │  ┃
+┃  │ Reclaimed     │  │  Green:✓        ││ [Mark       │  ┃
+┃  │ Timber Panel  │  │  Brown:Edge     ││  Damage]    │  ┃
+┃  │               │  │  Orange:Damage  ││             │  ┃
+┃  │ 1200×600×18mm│  │                 ││ [Download   │  ┃
+┃  │ Qty: 1        │  │  DAMAGE REGION: ││  Layout]    │  ┃
+┃  │               │  │  [Draw Box ▭▭] ││             │  ┃
+┃  │ PRODUCT:      │  │                 ││             │  ┃
+┃  │ [Desktop Org]│  │                 ││ [Run Optim  │  ┃
+┃  │               │  │                 ││  Again]     │  ┃
+┃  │ [Run          │  │                 ││             │  ┃
+┃  │  Optimization│  │                 ││             │  ┃
+┃  │  ⚡]          │  │                 ││             │  ┃
+┃  │               │  │                 ││             │  ┃
+┃  │ [Save Draft]  │  │ [Copy Layout]   ││ [Compare v2]│  ┃
+┃  └───────────────┴─────────────────────┴──────────────┘  ┃
+┃                                                           ┃
+┃  STATUS: Solver running... ⟳  (0.00025s typical)        ┃
+┃                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+REAL FEATURES YOU'LL USE:
+  ✓ Add multiple materials
+  ✓ Adjust constraints (kerf, edge waste)
+  ✓ Draw damage regions on canvas
+  ✓ See components placed in real-time
+  ✓ Download cutting layouts as SVG
+  ✓ Compare different design versions
+  ✓ All calculations happening live
+```
+
+---
+
+### **Screen 3: Material Library - Browse & Manage**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                           ┃
+┃  🌱 MATERRA    [Home] [Studio] [Materials]              ┃
+┃  Materials > Browse                                      ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  [Search materials...] [+ New Material] [🔄 Refresh]    ┃
+┃  Filter: [All ▼] [Timber] [Plywood] [Hardwood]          ┃
+┃                                                           ┃
+┃  MATERIALS GRID:                                         ┃
+┃  ┌──────────────┬──────────────┬──────────────┐         ┃
+┃  │  P-001       │  P-002       │  P-003       │         ┃
+┃  │ [🖼 Photo]   │ [🖼 Photo]   │ [🖼 Photo]   │         ┃
+┃  │              │              │              │         ┃
+┃  │ Timber Panel │ Plywood Sect │ Hardwood Edge│         ┃
+┃  │              │              │              │         ┃
+┃  │ 1200×600×18  │ 2400×600×15  │ 800×200×20   │         ┃
+┃  │ Used-Minor   │ Used-Good    │ Reclaimed    │         ┃
+┃  │              │              │              │         ┃
+┃  │ 🟢 VERIFIED  │ 🟢 VERIFIED  │ 🟡 REVIEW    │         ┃
+┃  │              │              │              │         ┃
+┃  │ [View] [Use] │ [View] [Use] │ [View] [Use] │         ┃
+┃  │ [Export]     │ [Export]     │ [Export]     │         ┃
+┃  └──────────────┴──────────────┴──────────────┘         ┃
+┃                                                           ┃
+┃  ┌──────────────┬──────────────┬──────────────┐         ┃
+┃  │  P-004       │  P-005       │  [+ New]     │         ┃
+┃  │ [+ Photo]    │ [🖼 Photo]   │   Material   │         ┃
+┃  │              │              │              │         ┃
+┃  │ Composite    │ Engineered   │ [Create]     │         ┃
+┃  │ 600×200×12   │ 1500×800×20  │              │         ┃
+┃  │ Draft        │ Used-Needs   │              │         ┃
+┃  │              │ Inspection   │              │         ┃
+┃  │ 🟡 DRAFT     │ ⚠️  REVIEW   │              │         ┃
+┃  └──────────────┴──────────────┴──────────────┘         ┃
+┃                                                           ┃
+┃  Showing 5 of 12 materials  [Load More ▼]               ┃
+┃                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+MATERIAL PASSPORT VIEW (Click any material):
+  ID: P-001
+  Material: Reclaimed Timber Panel
+  Photo: ✅ Attached
+  Dimensions: 1200 × 600 × 18 mm
+  Condition: Used - Minor wear
+  Source: Site Decommission
+  Verification: 🟢 PHOTO-SUPPORTED (80% complete)
+  Last Updated: 14 Mar 2025, 10:34 AM
+  [Download Passport] [Export Report] [Edit] [Delete]
+```
+
+---
+
+### **Screen 4: Design Templates - Choose & Create**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                           ┃
+┃  🌱 MATERRA    [Home] [Studio] [Materials] [Designs]   ┃
+┃  Designs > Templates                                     ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  AVAILABLE DESIGN TEMPLATES:                             ┃
+┃                                                           ┃
+┃  ┌──────────────┬──────────────┬──────────────┐         ┃
+┃  │ 📐 DESKTOP   │ 📚 BOOKSHELF │ 🪴 PLANTER   │         ┃
+┃  │  ORGANIZER   │               │              │         ┃
+┃  │              │ 6 Shelves     │ Pot Holder   │         ┃
+┃  │ 6 Components │ Modular       │ 2 Pieces     │         ┃
+┃  │ Modular      │ 1200mm width  │ Stackable    │         ┃
+┃  │ 1200mm w     │               │              │         ┃
+┃  │ 600mm h      │ [Create] →    │ [Create] →   │         ┃
+┃  │              │               │              │         ┃
+┃  │ [Create] →   │               │              │         ┃
+┃  │              │               │              │         ┃
+┃  │ Design Count:│ Design Count: │ Design Count:│         ┃
+┃  │ 2 (Latest)   │ 0 (Ready)     │ 1 (Latest)   │         ┃
+┃  └──────────────┴──────────────┴──────────────┘         ┃
+┃                                                           ┃
+┃  MY DESIGNS (Recent):                                    ┃
+┃  ┌──────────────────────────────────────────┐           ┃
+┃  │ 📐 Org-v2.1 (Desktop Organizer)   DRAFT │           ┃
+┃  │ Created: 2 days ago   Modified: 1 hr    │           ┃
+┃  │ Material: Panel P-001  Status: Ready    │           ┃
+┃  │ [View] [Optimize] [Copy] [Delete]       │           ┃
+┃  └──────────────────────────────────────────┘           ┃
+┃                                                           ┃
+┃  ┌──────────────────────────────────────────┐           ┃
+┃  │ 🪴 Plant-v1 (Planter)              DONE │           ┃
+┃  │ Created: 5 days ago   Finished: 3 days │           ┃
+┃  │ Material: Panel P-002  Status: Complete │           ┃
+┃  │ [View] [Optimize] [Copy] [Export Report]│           ┃
+┃  └──────────────────────────────────────────┘           ┃
+┃                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+---
+
+### **Screen 5: Environmental Impact Comparison**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                           ┃
+┃  🌱 MATERRA    [Home] [Studio] [Materials] [Impact]    ┃
+┃  Impact > Scenario Analysis                              ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  ENVIRONMENTAL ASSUMPTIONS (Editable):                   ┃
+┃                                                           ┃
+┃  Transport Distance: [50] km       Processing: [0.8]kWh │
+┃  Material Mass: [5] kg             Disposal Fee: [25]$ │
+┃                                                           ┃
+┃  [Calculate Impact ⚡]  [Reset] [Export Report]          ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  SCENARIO COMPARISON:                                    ┃
+┃                                                           ┃
+┃  ┌─ NEW MATERIAL ────────────────────┬─ RECLAIMED ───┐  ┃
+┃  │                                   │               │  ┃
+┃  │  42.8 kg CO₂e                     │ 23.1 kg CO₂e  │  ┃
+┃  │  ████████████████████░░░░░░░░░░░░ │ ███████░░░░░░│  ┃
+┃  │                                   │               │  ┃
+┃  │  Breakdown:                       │ Breakdown:    │  ┃
+┃  │  • New Material: 25.4 kg (59%)   │ • Reclaimed:0│  ┃
+┃  │  • Transport: 2.1 kg (5%)        │ • Transport:6│  ┃
+┃  │  • Processing: 1.2 kg (3%)       │ • Processing│  ┃
+┃  │  • Waste/Disposal: 14.1 kg (33%) │ • Waste: 17  │  ┃
+┃  │                                   │ • Total: 23.1│  ┃
+┃  │  ✗ Higher Impact                 │ ✓ Lower      │  ┃
+┃  │                                   │               │  ┃
+┃  └─────────────────────────────────────────────────────┘  ┃
+┃                                                           ┃
+┃  IMPROVEMENT:                                            ┃
+┃  ↓ 19.7 kg CO₂e saved (46% better)                      ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  ⓘ Scenario estimates — not certified LCA.              ┃
+┃    All assumptions are illustrative only.                ┃
+┃                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+---
+
+### **Screen 6: Guided Demo - Interactive 7-Step Walkthrough**
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                           ┃
+┃  🌱 MATERRA    [Home] [Studio] [Materials] [Demo]       ┃
+┃  Guided Demo > Judge Walkthrough                         ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  STEP 3 of 7:  🔄 DESIGN                                 ┃
+┃  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ┃
+┃                                                           ┃
+┃  Progress: 1️⃣ ⟹ 2️⃣ ⟹ [3️⃣] ⟹ 4️⃣ ⟹ 5️⃣ ⟹ 6️⃣ ⟹ 7️⃣     ┃
+┃                                                           ┃
+┃  ┌─ STEP DETAILS ────────────────┬─ 3D PREVIEW ──────┐  ┃
+┃  │                               │                   │  ┃
+┃  │ DESIGN 📐                     │  [📦 Product]     │  ┃
+┃  │                               │                   │  ┃
+┃  │ Generate optimized cutting    │  Desktop          │  ┃
+┃  │ layout for your product       │  Organizer        │  ┃
+┃  │ template using real solver.   │                   │  ┃
+┃  │                               │  Material: Panel   │  ┃
+┃  │ TEMPLATE: Desktop Organizer   │  P-001            │  ┃
+┃  │ COMPONENTS: 6 pieces          │  Optimize: 92.4%  │  ┃
+┃  │ MATERIAL: Reclaimed Panel     │                   │  ┃
+┃  │           1200×600×18mm       │  [↻][🔍][↔]       │  ┃
+┃  │                               │                   │  ┃
+┃  │ SOLVER RESULTS:               │                   │  ┃
+┃  │ ✅ Feasible                  │                   │  ┃
+┃  │ Utilization: 82.4%            │                   │  ┃
+┃  │ Components: 6 / 6 placed      │                   │  ┃
+┃  │ Runtime: 0.00023 seconds      │                   │  ┃
+┃  │                               │                   │  ┃
+┃  │ [← Back] [Next →] [Reset]     │                   │  ┃
+┃  └───────────────────────────────┴───────────────────┘  ┃
+┃                                                           ┃
+┃  ═══════════════════════════════════════════════════════  ┃
+┃                                                           ┃
+┃  ALL 7 STEPS:                                            ┃
+┃  1️⃣ DISCOVER (What you have)   📍 You are here        ┃
+┃  2️⃣ TRUST (Verify materials)                           ┃
+┃  3️⃣ DESIGN (Optimize layout)   ← CURRENT STEP         ┃
+┃  4️⃣ DISRUPT (Mark damage)                             ┃
+┃  5️⃣ REGENERATE (Adapt design)                         ┃
+┃  6️⃣ EVALUATE (Environmental impact)                   ┃
+┃  7️⃣ REVEAL (Full design report)                       ┃
+┃                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+Demo includes real data at each step:
+  ✓ Actual materials in library
+  ✓ Real optimization results
+  ✓ Live damage region handling
+  ✓ Environmental calculations
+  ✓ Design comparisons
+  ✓ Full-screen immersive experience
+```
+
+---
+
+### **Screen 7: Responsive Mobile Layout**
+
+```
+┌──────────────┐
+│ MOBILE VIEW  │
+├──────────────┤
+│              │
+│ ≡ MATERRA    │  Hamburger menu
+│ [×] Home     │
+│     Studio   │
+│     Materials│
+│     Designs  │
+│     Impact   │
+│     Demo     │
+│              │
+│ ─────────────│
+│              │
+│ WASTE IS NOT │
+│ THE END OF   │
+│ THE DESIGN   │
+│              │
+│ It's where   │
+│ MATERRA      │
+│ begins.      │
+│              │
+│ [Enter →]    │
+│ [Watch ▶]    │
+│              │
+│ 🔄 Circular  │
+│ 🌍 Lower CO₂ │
+│ ⚠️ Damage    │
+│ ⚡ Optimize  │
+│              │
+│ ─────────────│
+│ HOW IT WORKS:│
+│              │
+│ [1] [2] [3]  │
+│              │
+│ ─────────────│
+│              │
+│ [Load more]  │
+│              │
+└──────────────┘
+
+✓ Fully responsive
+✓ Touch-friendly buttons
+✓ Stacked layout
+✓ Mobile-optimized forms
+✓ Full feature access
+✓ Hamburger navigation
+
+Tested breakpoints:
+  Desktop: 1200px+ (3-column layout)
+  Tablet: 768-1199px (adjusted columns)
+  Mobile: <767px (stacked single column)
+```
+
+---
+
+## 🎨 **Design System in Action**
+
+### **Color Palette on UI Elements**
+
+```
+BUTTONS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Primary CTA:         [Enter Studio →]
+  Background: Forest Green #193F36
+  Text: Ivory #F6EEDF
+  Hover: Timber Orange #C58B5C
+  Radius: 8px
+  Shadow: Subtle drop shadow
+
+Secondary:          [Watch Demo ▶]
+  Border: Forest Green #193F36
+  Text: Forest Green #193F36
+  Fill: Transparent
+  Hover: Light gray fill
+
+Success:            [✓ Mark Damage]
+  Background: Green #10B981
+  Text: White
+  Hover: Darker green
+  Icon: ✓ checkmark
+
+Loading:            [⟳ Optimizing...]
+  Background: Citron #DCEB8A
+  Text: Forest Green #193F36
+  Animation: Spinner rotation
+
+
+TEXT STYLES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Page Titles:        Font: Instrument Serif | Size: 48px
+  Color: Forest Green #193F36 | Weight: Bold
+
+Headings (H2):      Font: Instrument Serif | Size: 36px
+  Color: Forest Green #193F36 | Weight: Bold
+
+Subheadings (H3):   Font: Manrope | Size: 24px
+  Color: Charcoal #29332F | Weight: 600
+
+Body Text:          Font: Manrope | Size: 16px
+  Color: Charcoal #29332F | Line-height: 1.6
+
+Data/Metrics:       Font: IBM Plex Mono | Size: 14px
+  Color: Forest Green #193F36 | Monospace numbers
+
+Small Labels:       Font: Manrope | Size: 12px
+  Color: Timber Orange #C58B5C | Letter-spacing: 0.5px
+
+
+COMPONENTS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Material Cards:
+  ┌─────────────────────┐
+  │ [Photo 150×150px]   │
+  │                     │
+  │ Reclaimed Panel     │ ← Title (Manrope 16px bold)
+  │ 1200×600×18mm      │ ← Dimension (IBM Plex 12px)
+  │ Used - Minor wear   │ ← Condition (Manrope 12px)
+  │                     │
+  │ 🟢 VERIFIED         │ ← Badge (Green #10B981)
+  │                     │
+  │ [View] [Use]        │ ← Action buttons
+  └─────────────────────┘
+
+Result Cards:
+  ┌─────────────────────┐
+  │ ✅ FEASIBLE        │ ← Success state
+  │ 92.4% Utilization  │ ← Main metric
+  │ 6 / 6 placed       │ ← Secondary info
+  │ 0.00025s runtime   │ ← Technical detail
+  │                     │
+  │ [Mark Damage]      │ ← Action
+  └─────────────────────┘
+```
+
+---
+
 ## 🌐 **Live Deployment Links**
 
 ### **Frontend (React App)**
