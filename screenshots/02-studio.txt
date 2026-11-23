@@ -1,0 +1,3 @@
+Screenshot 2: Studio - Optimization Workspace
+Path: screenshots/02-studio.png
+Description: Three-column layout showing Material & Constraints panel (left), Cutting Layout canvas (center), and Optimization Result panel (right). Left panel shows "Selected Panel", Add Material button, Product Template (Desktop Organizer - 3 components), and Optimization Settings (Kerf, Edge Margin, Allow 90° rotation). Center shows empty canvas with placeholder. Right panel shows "Run optimization to see results".

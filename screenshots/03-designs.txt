@@ -1,0 +1,3 @@
+Screenshot 3: Designs - Design Explorer
+Path: screenshots/03-designs.png
+Description: Design Explorer page showing "2 design(s) in your project". Two design cards displayed: "Untitled Design" (Created 19 minutes ago, 0 materials, Draft status). Each card has an Open button, copy icon, and delete icon. Cards show Desktop Organizer template preview.

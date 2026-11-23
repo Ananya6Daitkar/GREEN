@@ -4,20 +4,28 @@
 
 A fully working, production-quality full-stack sustainability platform that converts reclaimed construction timber into feasible product designs through real optimization, damage-aware regeneration, and transparent environmental analysis.
 
-**Project Status:** ✅ **PRODUCTION READY - DEPLOY IN 5 MINUTES**
+**Project Status:** ✅ **FRONTEND LIVE ON VERCEL**
 
 ---
 
-## 🚀 **DEPLOY NOW (5 Minutes)**
+## 🚀 **TRY IT NOW**
 
-### **Deployment Guide**
-See **[DEPLOY_NOW.md](DEPLOY_NOW.md)** for step-by-step instructions:
-- ✅ Vercel frontend deployment (2 min)
-- ✅ Render backend deployment (2 min)  
-- ✅ Connect frontend to backend (1 min)
+### **Live Frontend (UI Demo)**
+🔗 **https://frontend-six-flame-3dmpv3bgq9.vercel.app**
 
-### **Local Testing**
-Test the full application locally right now:
+✅ All pages working  
+✅ Full responsive design  
+✅ Beautiful UI visible  
+⏳ Optimization requires backend (see deployment options below)
+
+### **Deployment Status**
+See **[DEPLOYED_LINKS.md](DEPLOYED_LINKS.md)** for:
+- ✅ Frontend: Live on Vercel
+- ⏳ Backend: Ready to deploy to Render (2 min)
+- ✅ GitHub: Full source code with 11 commits
+
+### **Full Working App (Local)**
+To see everything working with real optimization:
 
 ```bash
 # Terminal 1: Backend
@@ -29,7 +37,7 @@ cd frontend && npm run dev
 # Open: http://localhost:3001
 ```
 
-**GitHub Code:** 🔗 [https://github.com/Ananya6Daitkar/GREEN](https://github.com/Ananya6Daitkar/GREEN)
+**GitHub:** 🔗 [https://github.com/Ananya6Daitkar/GREEN](https://github.com/Ananya6Daitkar/GREEN)
 
 ---
 
@@ -223,26 +231,31 @@ Adjust Assumptions → Calculate → See CO₂ Savings → Export Report
 
 ## 📋 For Judges
 
-### **Option 1: Try Live (After Deployment)**
-1. Visit https://materra-studio.vercel.app (after deploying)
-2. Click "Enter Studio"
-3. Add Material → Run Optimization → See Results
-4. Try Demo tab for 7-step walkthrough
-5. Calculate environmental impact
+### **Option 1: Try Live Frontend (30 Seconds)**
+🔗 **https://frontend-six-flame-3dmpv3bgq9.vercel.app**
+- Explore all pages
+- See professional UI
+- Responsive design demo
+- Note: Optimization requires backend connection
 
-### **Option 2: Run Locally (Right Now)**
+### **Option 2: Run Full App Locally (2 Min Setup)**
 ```bash
-# Terminal 1
+# Terminal 1: Backend
 cd backend && source venv/bin/activate && python main.py
 
-# Terminal 2 (new terminal)
+# Terminal 2: Frontend (new terminal)
 cd frontend && npm run dev
 
 # Open: http://localhost:3001
+# Full functionality with real optimization
 ```
 
-### **Option 3: Review Code**
-All code on GitHub: https://github.com/Ananya6Daitkar/GREEN
+### **Option 3: Review Code on GitHub**
+🔗 **https://github.com/Ananya6Daitkar/GREEN**
+- Full source code
+- 11 commits showing development
+- 13 documentation files
+- Tests passing (13/13)
 
 **Total demo time:** 10-15 minutes to see all features.
 

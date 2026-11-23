@@ -1,0 +1,3 @@
+Screenshot 5: Demo - Guided Walkthrough (Step 7: Reveal)
+Path: screenshots/05-demo.png
+Description: Demo page showing 7-step progress indicators (1-7 circles) at top. Currently on Step 7 "Reveal". Left side shows "Export the complete design evidence report" with "Export Evidence Report" section and "Download Report.pdf" button. Right side shows "3D Product Preview" with a 3D Desktop Organizer model that can be rotated, zoomed, or exploded. Bottom has Back, Reset, and Next buttons.

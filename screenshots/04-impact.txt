@@ -1,0 +1,3 @@
+Screenshot 4: Impact - Environmental Intelligence
+Path: screenshots/04-impact.png
+Description: Environmental Intelligence page with editable assumptions on the left: Transport distance (50 km), Transport emission factor (0.12 kg CO2e/km/kg), Material mass (5 kg), Processing energy (0.8 kWh), Electricity emission factor (0.233 kg CO2e/kWh), New material factor (0.5 kg CO2e/kg). Right side shows placeholder for results. All inputs are editable text fields.

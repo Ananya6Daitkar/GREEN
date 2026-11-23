@@ -1,0 +1,3 @@
+Screenshot 1: Homepage - Hero Section with Navigation
+Path: screenshots/01-homepage.png
+Description: Full-screen hero with MATERRA logo, navigation menu (Home, Studio, Materials, Designs, Impact, Demo), main headline "WASTE IS NOT THE END OF THE DESIGN", tagline "It's where MATERRA begins", descriptive text, and two CTAs: "Enter the Studio" and "Watch the Transformation"
