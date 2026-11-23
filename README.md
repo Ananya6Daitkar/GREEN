@@ -4,20 +4,32 @@
 
 A fully working, production-quality full-stack sustainability platform that converts reclaimed construction timber into feasible product designs through real optimization, damage-aware regeneration, and transparent environmental analysis.
 
-**Project Status:** ✅ **LIVE & DEPLOYED**
+**Project Status:** ✅ **PRODUCTION READY - DEPLOY IN 5 MINUTES**
 
 ---
 
-## 🚀 **TRY IT NOW**
+## 🚀 **DEPLOY NOW (5 Minutes)**
 
-### **Live Application**
-| Service | URL |
-|---------|-----|
-| **Frontend** | 🔗 [https://materra-studio.vercel.app](https://materra-studio.vercel.app) |
-| **Backend API** | 🔗 [https://materra-backend.onrender.com](https://materra-backend.onrender.com) |
-| **GitHub** | 🔗 [https://github.com/Ananya6Daitkar/GREEN](https://github.com/Ananya6Daitkar/GREEN) |
+### **Deployment Guide**
+See **[DEPLOY_NOW.md](DEPLOY_NOW.md)** for step-by-step instructions:
+- ✅ Vercel frontend deployment (2 min)
+- ✅ Render backend deployment (2 min)  
+- ✅ Connect frontend to backend (1 min)
 
-**30-second quick start:** Visit https://materra-studio.vercel.app → Click "Enter Studio" → Add Material → Run Optimization
+### **Local Testing**
+Test the full application locally right now:
+
+```bash
+# Terminal 1: Backend
+cd backend && source venv/bin/activate && python main.py
+
+# Terminal 2: Frontend
+cd frontend && npm run dev
+
+# Open: http://localhost:3001
+```
+
+**GitHub Code:** 🔗 [https://github.com/Ananya6Daitkar/GREEN](https://github.com/Ananya6Daitkar/GREEN)
 
 ---
 
@@ -165,15 +177,16 @@ Adjust Assumptions → Calculate → See CO₂ Savings → Export Report
 
 ## 🌐 Live Deployment
 
-### Frontend (Vercel)
-- Auto-deploys from GitHub
-- Build: `npm run build`
-- Output: `dist/`
+**Status:** Ready to deploy. Full instructions in [DEPLOY_NOW.md](DEPLOY_NOW.md)
 
-### Backend (Render)
-- Auto-deploys from GitHub
-- Build: `pip install -r backend/requirements.txt`
-- Start: `cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT`
+**Timeline:**
+- Vercel frontend: 2 minutes
+- Render backend: 2 minutes
+- Total: 5 minutes to production
+
+**After deployment**, URLs will be:
+- Frontend: https://materra-studio.vercel.app
+- Backend: https://materra-backend.onrender.com
 
 ---
 
@@ -210,15 +223,28 @@ Adjust Assumptions → Calculate → See CO₂ Savings → Export Report
 
 ## 📋 For Judges
 
-1. **Visit:** https://materra-studio.vercel.app
-2. **Click:** "Enter Studio"
-3. **Add Material:** Click "Add Material" button
-4. **Run Optimization:** Click "Run Optimization ⚡"
-5. **See Results:** View cutting layout and metrics
-6. **Try Demo:** Click "Demo" for guided walkthrough (7 steps, 5 min)
-7. **Calculate Impact:** Go to "Impact" tab, adjust assumptions
+### **Option 1: Try Live (After Deployment)**
+1. Visit https://materra-studio.vercel.app (after deploying)
+2. Click "Enter Studio"
+3. Add Material → Run Optimization → See Results
+4. Try Demo tab for 7-step walkthrough
+5. Calculate environmental impact
 
-**Total time:** 10-15 minutes to see all features.
+### **Option 2: Run Locally (Right Now)**
+```bash
+# Terminal 1
+cd backend && source venv/bin/activate && python main.py
+
+# Terminal 2 (new terminal)
+cd frontend && npm run dev
+
+# Open: http://localhost:3001
+```
+
+### **Option 3: Review Code**
+All code on GitHub: https://github.com/Ananya6Daitkar/GREEN
+
+**Total demo time:** 10-15 minutes to see all features.
 
 ---
 
