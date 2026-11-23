@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-forest text-ivory rounded font-semibold hover:bg-charcoal transition-colors duration-200;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 border-2 border-forest text-forest rounded font-semibold hover:bg-forest hover:text-ivory transition-colors duration-200;
+  }
+
+  .btn-small {
+    @apply px-4 py-2 bg-forest text-ivory rounded font-semibold hover:bg-charcoal transition-colors duration-200 text-sm;
+  }
+
+  .btn-icon {
+    @apply p-2 hover:bg-gray-100 rounded transition-colors duration-200;
+  }
+}
+
+@supports (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
